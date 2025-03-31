@@ -26,7 +26,6 @@ This project implements a **semi-supervised machine learning approach** to detec
 **Alert System** – Generates alerts when critical damage is detected.  
 
 ### **Output**  
-**Damage Location & Severity Level** – Highlights affected areas.  
 **Risk Assessment Report** – Provides predictive insights for maintenance.  
 **Visual & Sensor-Based Anomalies** – Helps in proactive structural monitoring.  
 
